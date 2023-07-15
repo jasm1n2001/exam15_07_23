@@ -1,0 +1,2 @@
+﻿c# - Yake az zabonho barnomasozii mashhur meboshad. in zabon az oilai zabonhoi c buda, az tarafi shirkati Micrasoft okhta shudaast. bo yorii in zabon mo metavonem boziho, barnomaho, websaytho va khelo korhoi dihgar anjjom doda metaonem.
+Class in naqsha va object boshad namunai class meboshad.

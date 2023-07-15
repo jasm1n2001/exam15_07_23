@@ -1,0 +1,5 @@
+C:\Users\hp\Desktop\C#\exam15 07 23\task8\obj\Debug\net7.0\task8.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C#\exam15 07 23\task8\obj\Debug\net7.0\task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\exam15 07 23\task8\obj\Debug\net7.0\task8.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\exam15 07 23\task8\obj\Debug\net7.0\task8.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\exam15 07 23\task8\obj\Debug\net7.0\task8.csproj.CoreCompileInputs.cache
